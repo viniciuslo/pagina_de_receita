@@ -17,7 +17,7 @@ Este repositório contém materiais e exercícios para a revisão de HTML e CSS.
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/pagina_de_receita.git
+    git clone https://github.com/viniciuslo/pagina_de_receita.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
